@@ -1,0 +1,6 @@
+streamlit
+pandas
+pillow
+torch
+torchvision
+numpy
