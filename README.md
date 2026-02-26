@@ -147,6 +147,7 @@ This project uses the **Casting Defect Detection Dataset**:
 - OK (ok_front)
 
 Dataset is not included in this repository due to size.
+https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 
 ---
 
